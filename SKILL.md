@@ -3,7 +3,7 @@ name: gordian-knot-solution
 description: Reframe impossible problems by changing the question rather than struggling with unsolvable constraints.
 license: MIT
 metadata:
-  version: 1.0.4102
+  version: 1.0.4103
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
